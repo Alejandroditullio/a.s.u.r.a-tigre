@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 1300;
+    background-image: repeating-linear-gradient(90deg, rgb(248, 248, 248), rgb(231, 248, 233) 20px, #ffffff 10px, #ffffff 80px); }
+
+.carousel-inner{
+    width: 60px;
+    height: 80px;
+    padding-bottom: 40px;
+}
+
+.logo-inicio{
+    width: 140px;
+    height: 140px;
+}
+
+
+
+
+
+.card{
+    margin: 15px;
+    padding: 45px;
+
+}
+
+
+
+    
+    
+
+.carousel-inner-{
+    display: flex;
+    width: 160px;
+    
+   
+}
