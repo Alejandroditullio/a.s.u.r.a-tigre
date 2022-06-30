@@ -19,12 +19,18 @@ body {
 
 
 
-
+.contenido{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-areas: contenido,publicidad;
+    
+}
 
 .card{
+    
     margin: 15px;
-    padding: 45px;
-
+    padding: 30px;
+    
 }
 
 
